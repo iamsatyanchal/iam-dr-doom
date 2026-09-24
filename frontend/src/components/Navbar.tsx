@@ -60,7 +60,7 @@ export const Navbar = () => {
                 alt="Satyamev Jayate - Government of India"
                 className="h-8 sm:h-10 w-auto object-contain flex-shrink-0"
               />
-              <div className="flex flex-col leading-tight">
+              <div className="hidden md:flex flex-col leading-tight">
                 <span className="text-[10px] sm:text-[12px] font-bold text-slate-800 tracking-tight leading-none mb-0.5">
                   Government of India
                 </span>
